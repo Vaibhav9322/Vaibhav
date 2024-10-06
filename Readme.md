@@ -3,8 +3,7 @@ greenhouse-gases-website/
 ├── index.html
 ├── styles.css
 ├── script.js
-├── images/
-│   ├── co2.jpg
+├── images
 │   ├── methane.jpg
 │   ├── nitrous_oxide.jpg
 │   ├── fluorinated_gases.jpg
